@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052149973377",
+    "project_id": "expenses-3fca1",
+    "storage_bucket": "expenses-3fca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052149973377:android:9bcbf9aa695836622a2880",
+        "android_client_info": {
+          "package_name": "expenses.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMaChVwOWS7aYCea3jzrYb8hlnkkwotp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
