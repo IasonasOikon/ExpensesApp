@@ -1,29 +1,26 @@
-# README #
+# Expenses Tracker App - Thesis Project
 
-This README would normally document whatever steps are necessary to get your application up and running.
+# Project Overview
+This project is part of my Master's Thesis at the **Department of Computer Science and Engineering, University of Ioannina**. 
+The thesis was conducted under the supervision of **Professor Konstantinos Blekas**.
 
-### What is this repository for? ###
+### **👤 Author:** 
+**Iasonas Oikonomou** - Master’s Student in Computer Science and Engineering, University of Ioannina.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## 🎯 Project Description
+The **Expenses Tracker App** is a **Flutter-based mobile application** designed to help users manage their finances efficiently. It allows users to **track expenses, set budgets, and receive financial insights** using advanced data visualization techniques.
 
-### How do I get set up? ###
+The application includes:
+- **User Authentication:** Firebase-based login and registration.
+-  **Expense Management:** Add, edit, and categorize expenses.
+-  **Budgeting System:** Set a monthly budget and monitor spending.
+-  **Data Visualization:** Charts and graphs to analyze financial trends.
+-  **Prediction Model:** Linear regression-based expense forecasting.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## 🛠️ Technologies Used
+- **Flutter & Dart** - Mobile app development.
+- **Firebase** - Authentication and backend storage.
+- **Hive & SQLite** - Local data storage.
+- **Syncfusion Charts** - Expense visualization.
+- **Machine Learning (Linear Regression)** - Future expense prediction.
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
